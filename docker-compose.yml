@@ -37,6 +37,10 @@ services:
       POSTGRES_PASSWORD: postgres
       POSTGRES_DB: workshop
 
+<<<<<<< HEAD
 # TODO(step-5h): declare the named volume `pgdata` at the top level.
+=======
+# TODO(step-5h): declare the named volume `pgdata` at the top level...
+>>>>>>> 90979830d19a44dc3a68582eaaedc81631b64abd
 volumes:
   pgdata:
